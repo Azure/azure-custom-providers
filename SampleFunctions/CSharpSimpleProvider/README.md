@@ -2,12 +2,12 @@
 
 
 ### Deploy custom provider :
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2azure-custom-providers%2Fmaster%2FSampleFunctions%2FCSharpSimpleProvider%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-custom-providers%2Fmaster%2FSampleFunctions%2FCSharpSimpleProvider%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/> 
 </a>
 
 ### Deploy custom provider resource:
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2azure-custom-providers%2Fmaster%2FSampleFunctions%2FCSharpSimpleProvider%2Fazuredeploy.customresource.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-custom-providers%2Fmaster%2FSampleFunctions%2FCSharpSimpleProvider%2Fazuredeploy.customresource.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/> 
 </a>
 

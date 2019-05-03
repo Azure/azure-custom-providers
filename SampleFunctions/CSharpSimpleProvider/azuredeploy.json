@@ -15,7 +15,7 @@
           "metadata": {
             "description": "The Uri to the uploaded function zip file"
           },
-          "defaultValue": "https://github.com/raosuhas/managedapps-intro/blob/master/SampleFunctions/CSharpSimpleProvider/Artifacts/functionZip/functionpackage.zip?raw=true"
+          "defaultValue": "https://github.com/Azure/azure-custom-providers/blob/master/SampleFunctions/CSharpSimpleProvider/Artifacts/functionZip/functionpackage.zip?raw=true"
         }
     },
     "variables": {

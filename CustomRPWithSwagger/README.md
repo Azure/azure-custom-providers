@@ -1,6 +1,6 @@
 # Incorporating swagger into Custom Providers
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fraosuhas%2Fmanagedapps-intro%2Fmaster%2FCustomRPWithSwagger%2Fazuredeploy.json" target="_blank">
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2azure-custom-providers%2Fmaster%2FCustomRPWithSwagger%2Fazuredeploy.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/> 
 </a>
 
@@ -31,11 +31,11 @@ In the resource deployment section for custom providers, the following section d
 "Validations" :[
                                 {
                                     "ValidationType": "swagger",
-                                    "Specification": "https://raw.githubusercontent.com/raosuhas/managedapps-intro/master/CustomRPWithSwagger/Artifacts/Swagger/pingaction.json"
+                                    "Specification": "https://raw.githubusercontent.com/Azure/azure-custom-providers/master/CustomRPWithSwagger/Artifacts/Swagger/pingaction.json"
                                 },
                                 {
                                     "ValidationType": "swagger",
-                                    "Specification": "https://raw.githubusercontent.com/raosuhas/managedapps-intro/master/CustomRPWithSwagger/Artifacts/Swagger/userresource.json"
+                                    "Specification": "https://raw.githubusercontent.com/Azure/azure-custom-providers/master/CustomRPWithSwagger/Artifacts/Swagger/userresource.json"
                                 }
                             ]
 

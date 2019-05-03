@@ -15,7 +15,7 @@
           "metadata": {
             "description": "The Uri to the uploaded function zip file"
           },
-          "defaultValue": "https://github.com/raosuhas/managedapps-intro/blob/master/SampleFunctions/CSharpSimpleProvider/Artifacts/functionZip/functionpackage.zip?raw=true"
+          "defaultValue": "https://github.com/Azure/azure-custom-providers/blob/master/SampleFunctions/CSharpSimpleProvider/Artifacts/functionZip/functionpackage.zip?raw=true"
         }
     },
     "variables": {
@@ -106,11 +106,11 @@
                             "Validations" :[
                                 {
                                     "ValidationType": "swagger",
-                                    "Specification": "https://raw.githubusercontent.com/raosuhas/managedapps-intro/master/CustomRPWithSwagger/Artifacts/Swagger/pingaction.json"
+                                    "Specification": "https://raw.githubusercontent.com/Azure/azure-custom-providers/master/CustomRPWithSwagger/Artifacts/Swagger/pingaction.json"
                                 },
                                 {
                                     "ValidationType": "swagger",
-                                    "Specification": "https://raw.githubusercontent.com/raosuhas/managedapps-intro/master/CustomRPWithSwagger/Artifacts/Swagger/userresource.json"
+                                    "Specification": "https://raw.githubusercontent.com/Azure/azure-custom-providers/master/CustomRPWithSwagger/Artifacts/Swagger/userresource.json"
                                 }
                             ]
                         },

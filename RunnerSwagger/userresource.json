@@ -286,22 +286,8 @@
                   "readOnly": true,
                   "type": "string",
                   "description": "Resource type"
-              },
-              "location": {
-                  "type": "string",
-                  "description": "Resource location"
-              },
-              "tags": {
-                  "type": "object",
-                  "additionalProperties": {
-                      "type": "string"
-                  },
-                  "description": "Resource tags"
               }
           },
-          "required": [
-              "location"
-          ],
           "description": "The resource definition.",
           "x-ms-azure-resource": true
       }

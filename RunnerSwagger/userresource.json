@@ -341,11 +341,6 @@
             
             }
         },
-        "allOf": [
-            {
-                "$ref": "#/definitions/Resource"
-            }
-        ],
         "description": "A manifest file that defines the custom resource provider resources."
       },
       "Resource": {

@@ -263,7 +263,7 @@
                 {
                 "name": "parameters",
                 "in": "body",
-                "required": true,
+                "required": false,
                 "schema": {
                 "$ref": "#/definitions/UserResource"
                 },
@@ -380,8 +380,7 @@
           "required": [
               "location"
           ],
-          "description": "The resource definition.",
-          "x-ms-azure-resource": true
+          "description": "The resource definition."
       }
   },
   "parameters": {

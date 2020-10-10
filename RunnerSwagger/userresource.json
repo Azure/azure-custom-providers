@@ -251,7 +251,7 @@
                 "type": "object",
                 "description":"The definition of a created user",
                 "properties":{
-                    "name": {
+                    "FullName": {
                         "type": "string",
                         "description": "THe Full Name of the user"
                     },

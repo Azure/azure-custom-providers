@@ -3,7 +3,7 @@
   "info": {
       "version": "2018-08-14-preview",
       "title": "Users Resource",
-      "description": "Azure Operations Management API reference for users created via custop providers"
+      "description": "Azure Operations Management API reference for users created via custom providers"
   },
   "host": "management.azure.com",
   "schemes": [
